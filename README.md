@@ -10,8 +10,8 @@ Estará hecha con HTML5 CSS3 y Javascript en su primera versión y sufrirá modi
 
 ## Colores 
 Se usarán lo siguientes colores:
-#4d4dff Azul de los títulos generales
-#ff9900 Naranja
-#cc0099 Morado Biología celular
-#ff4d4d Rojo Fisiología animal
-Continuará...
+* #4d4dff Azul de los títulos generales
+* #ff9900 Naranja
+* #cc0099 Morado Biología celular
+* #ff4d4d Rojo Fisiología animal
+* Continuará...
