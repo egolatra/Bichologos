@@ -15,3 +15,4 @@ Se usarán lo siguientes colores:
 * #cc0099 Morado Biología celular
 * #ff4d4d Rojo Fisiología animal
 * Continuará...
+![alt text](https://github.com/egolatra/Bichologos/blob/master/Dise%C3%B1o%20web.jpg)
