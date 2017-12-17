@@ -20,7 +20,7 @@ nav ul li {
     display: inline;
     padding-left:10px;
     padding-right:10px;
-    border-right: 1px solid gray;
+    border-right: 1px solid #FFF;
     height: 30px;
 }
 nav ul li a{
