@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+}
+.titulo{
+    text-align: center;
+    color:blue;
+}
+.tq{
+    text-align:center;
+    
+}
+.foto{
+    width:10 px;
+    height: 200px;
+    display:block;
+    margin:auto;
+
+    
+}
